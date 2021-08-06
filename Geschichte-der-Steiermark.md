@@ -63,7 +63,7 @@ gehörte?</summary>
 abliefern/leisten?</summary>
 
 * Geld 
-* Landwirtschaftlichen Produkten
+* Landwirtschaftliche Produkte
 * Arbeit (Robot)
 
 </details>
@@ -89,7 +89,7 @@ abliefern/leisten?</summary>
 <details><summary>Welche Personengruppen waren am Landtag vertreten (die drei „Landstände“)?</summary>
 
 * der Adel
-* die hohen Geistlichkeit (katholische
+* die hohe Geistlichkeit (katholische
 Kirche) 
 * ein Vertreter für sämtliche landesfürstliche Städte und Märkte der Steiermark 
 
