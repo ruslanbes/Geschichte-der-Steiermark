@@ -294,4 +294,4 @@ Kirche)
 
 ## Skriptum
 
-[GESCHICHTE DER STEIERMARK](https://www.verwaltung.steiermark.at/cms/dokumente/11682614_75773739/6aa9e627/STAATSB%C3%9CRGERSCHAFT_Skriptum_Geschichte_Steiermark_2015_06_17.pdf)
+[GESCHICHTE DER STEIERMARK](https://www.verwaltung.steiermark.at/cms/dokumente/11682614_75773739/12696ef0/Teil%202_Skriptum_Geschichte_Steiermark_2022_07_15.pdf)
